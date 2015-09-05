@@ -7,6 +7,8 @@ scripting engine.  Supports Unix desktop, Arduino and ESP8266.
 - [Aiko Engine](https://github.com/geekscape/aiko_engine)
 - [LIFX C protocol](https://github.com/geekscape/lifx_c)
 
+Workshops ...
+
 - [ESP8266 workshops](https://github.com/geekscape/nodemcu_esp8266)
 
 Original Aiko repository (2009 - 2011)
